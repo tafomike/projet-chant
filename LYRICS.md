@@ -1,7 +1,6 @@
 L’École du micro d’argent
 IAM
  
->>>>>>> 128579bcdce9b8af670fa30f8f303e727c41c7a6
 L'École du micro d'argent
 L'École du micro d'argent
 Je représente
